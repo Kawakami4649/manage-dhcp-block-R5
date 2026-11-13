@@ -2,7 +2,7 @@
 
 DHCP の有効/無効状態に応じて、起動時に `ebtables` のルールを自動設定するスクリプトです。
 
-Ubuntu 系で `netplan` を利用している環境を想定しています。
+Rasberry pi / Ubuntu 系で `netplan` を利用している環境を想定しています。
 
 ---
 
